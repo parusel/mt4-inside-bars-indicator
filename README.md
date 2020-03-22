@@ -3,4 +3,4 @@ Indikator, der markttechnische Innenstäbe darstellt.
 
 ## Screenshot
 
-![MT4 Innenstäbe Indikator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-innenstaebe/innenstäbe.png "MT4 Innenstäbe Markttechnik Indikator")
+![MT4 Innenstäbe Indikator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-innenstaebe/master/innenstäbe.png "MT4 Innenstäbe Markttechnik Indikator")
