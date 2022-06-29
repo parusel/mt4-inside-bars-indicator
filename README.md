@@ -1,6 +1,6 @@
-# MT4 Markttechnik Indikator für Innenstäbe 
-Indikator, der markttechnische Innenstäbe darstellt.
+# MT4 Indicator for displaying inside bars
+Indicator that displays inside bars. Inside bars are useful for price action trading as they show an area of consolidation but may act as zones of support and resistance.
 
 ## Screenshot
 
-![MT4 Innenstäbe Indikator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-innenstaebe/master/innenstäbe.png "MT4 Innenstäbe Markttechnik Indikator")
+![MT4 Inside Bars Indicator](https://raw.githubusercontent.com/parusel/mt4-markttechnik-innenstaebe/master/innenstÃ¤be.png "MT4 Inside Bars Indicator")
