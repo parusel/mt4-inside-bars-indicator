@@ -1,4 +1,4 @@
-# MT4 Indicator for displaying inside bars
+# MetaTrader 4 Indicator for displaying inside bars
 Indicator that displays inside bars. Inside bars are useful for price action trading as they show an area of consolidation but may act as zones of support and resistance.
 
 ## Screenshot
